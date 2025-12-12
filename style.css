@@ -207,7 +207,7 @@ header {
   border-radius: 50%;
   border: 3px solid #00aaff;
   box-shadow: 0 0 20px #00aaff;
-  background: url(/image/wiz.png) no-repeat top;
+  background: url(wiz.png) no-repeat top;
   background-size: cover;
 }
 
@@ -239,7 +239,7 @@ header {
   border-radius: 20px;
   border: 2px solid #00aaff;
   box-shadow: 0 0 20px #00aaff;
-  background: url(/image/work.png)no-repeat top;
+  background: url(work.png)no-repeat top;
   /* background: rgba(0, 170, 255, 0.05); */
   background-size: cover;
   right: 30px;
@@ -1456,4 +1456,5 @@ body {
   transform: translateY(0);
 } 
     /* POP UP */
+
    
